@@ -3,3 +3,5 @@ app/ignored/
 *.py[cdo]
 app/**/*.log
 !app/main.log
+.pre-commit-config.yaml
+setup.cfg
