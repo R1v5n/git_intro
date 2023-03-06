@@ -5,3 +5,5 @@ app/**/*.log
 !app/main.log
 .pre-commit-config.yaml
 setup.cfg
+.pytest_cache
+.coverage
